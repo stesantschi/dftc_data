@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Drawing from the Crowd: Georeferencing dataset for mapping ukiyo-e cultural geography"
+type: dataset
+authors:
+  - given-names: Stephanie
+    family-names: Santschi
+    affiliation: "University of Zurich, Chair of East Asian Art History"
+  - given-names: Himanshu
+    family-names: Panday
+    affiliation: "Dignity in Difference"
+  - given-names: Hirohito
+    family-names: Tsuji
+    affiliation: "University of East Anglia"
+  - given-names: Drew
+    family-names: Richardson
+    affiliation: "University of California, Santa Cruz"
+abstract: >-
+  Curated metadata for Edo-period Japanese landscape prints and illustrated books (meisho-zue), 
+  prepared for citizen-science georeferencing on the  Smapshot platform. 
+  Records carry source attribution, a-priori viewpoint coordinates, and artist references linked to an artist lookup table.
+  No images are included; image columns are links to the holding institutions.
+keywords:
+  - ukiyo-e
+  - meisho-zue
+  - digital art history
+  - citizen science
+  - georeferencing
+  - Japanese visual culture
+license: CC-BY-4.0
+url: "https://landscapes.theprintlab.org"
+repository-code: "https://github.com/stesantschi/dataset"
+version: "1.0.0"
+date-released: "2026-06-18"
+
