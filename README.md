@@ -19,7 +19,7 @@ The two source batches are coloured separately; 25 records with out-of-range coo
 ```
 data/
   bm_ndl_meisho_landmarks.csv   British Museum + NDL meisho-zue + National Archives of Japan
-  jmet_ndl_taito.csv            NDL + ADEAC (via Japan Search)
+  jmet_ndl_taito.csv            NDL + ADEAC (via Japan Search) + Taito Lifelong Learning center
   artists.csv                   artist lookup table
 docs/
   data-dictionary.md            every field, fill rates, known issues
