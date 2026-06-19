@@ -11,7 +11,7 @@ The standardization, enrichment, and geographic tagging are the project's own co
 | File | Rows | Role |
 | --- | --- | --- |
 | `bm_ndl_meisho_landmarks.csv` | 1,345 | Print/book records (British Museum + NDL meisho-zue + National Archives of Japan) |
-| `jmet_ndl_taito.csv` | 1,757 | Print/book records (NDL via Japan Search + ADEAC) |
+| `jmet_ndl_taito.csv` | 1,757 | Print/book records (NDL via Japan Search + ADEAC) , Taito Lifelong Learning center|
 | `artists.csv` | 196 | Artist lookup table |
 
 **Key relationship:** `photographer_id` in the two record files is a foreign key into `artists.id`. (The Smapshot template reuses the field name `photographer_id` for the artist of the print.)
